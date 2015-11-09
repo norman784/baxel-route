@@ -1,8 +1,8 @@
 {
   "name": "baxel-route",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Baxel routes",
-  "main": "lib/route.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,8 +14,6 @@
   "author": "Norman Paniagua <normanpaniagua@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "color-console": "0.0.1",
-    "koa-router": "^5.1.2",
-    "sprintf": "^0.1.5"
+    "chalk": "^1.1.1"
   }
 }
